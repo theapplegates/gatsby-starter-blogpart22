@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Living Life`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Paul Applegate`,
+      summary: `who lives and works in Ohio`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `papplegate`,
     },
   },
   plugins: [
@@ -34,6 +34,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
+              withAvif: true,
+              withWebp: true,
               maxWidth: 630,
             },
           },
