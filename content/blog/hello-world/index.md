@@ -21,6 +21,8 @@ Oh, and here's a great quote from this Wikipedia on
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
+![A mystery picture](./IMG_1291.jpg)
+
 You can also write code blocks here!
 
 ```js
